@@ -4,6 +4,12 @@ default-run = "multibase"
 version = "0.1.0"
 authors = ["Andrew Dirksen <andrew@dirksen.com>"]
 edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "convert between multibase encodings"
+keywords = ["encoding", "multiformat", "cli"]
+categories = ["command-line-utilities"]
+readme = "README.md"
+repository = "https://github.com/docknetwork/multibase-cli"
 
 [dependencies]
 multibase = "0.6.0"
