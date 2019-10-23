@@ -1,5 +1,7 @@
 # Multibase converter
 
+[![crates.io](https://img.shields.io/badge/crates.io-v0.4.0-orange.svg?style=flat-square)](https://crates.io/crates/multibase-cli)
+
 Command line tool for converting {to,from,between}
 [multibase](https://tools.ietf.org/html/draft-multiformats-multibase-00) encodings.
 
