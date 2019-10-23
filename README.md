@@ -1,6 +1,6 @@
 # Multibase converter
 
-Command line tool which converts to, from, and between
+Command line tool for converting {to,from,between}
 [multibase](https://tools.ietf.org/html/draft-multiformats-multibase-00) encodings.
 
 Uses the [multibase crate](https://crates.io/crates/multibase).
