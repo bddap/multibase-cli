@@ -41,6 +41,12 @@ printf "%s" 011010000110010101111001 | multibase decode
 multibase decode 011010000110010101111001
 ```
 
+## Installation
+
+```bash
+cargo install multibase-cli
+```
+
 ## Known issues
 
 Multibase encodings with padding are not yet supported. To make them supported,

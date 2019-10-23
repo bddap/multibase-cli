@@ -64,7 +64,7 @@ dependencies = [
 
 [[package]]
 name = "multibase-cli"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "multibase 0.6.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "structopt 0.3.3 (registry+https://github.com/rust-lang/crates.io-index)",
